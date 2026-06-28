@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    {
+      "name": "喝水提醒",
+      "version": "1.0.0",
+      "author": "chenzhi",
+      "description": "后台插件, 每隔 1 分钟用 Windows 通知提醒你喝水",
+      "type": "Background",
+      "url": "https://raw.githubusercontent.com/obox-py/plugins/main/water_reminder.oix"
+    }
+  ]
+}

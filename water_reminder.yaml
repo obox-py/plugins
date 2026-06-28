@@ -1,0 +1,6 @@
+name: 喝水提醒
+version: 1.0.0
+author: chenzhi
+logo: CHAT
+description: 后台插件, 每隔 1 分钟用 Windows 通知提醒你喝水
+type: Background
